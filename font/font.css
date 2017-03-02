@@ -1,0 +1,13 @@
+@font-face{
+	font-family: "Qlassik_TB";
+	src:url("font/Qlassik_TB.eot") format("eot"),
+	url("font/Qlassik_TB.eot.ttf") format("truetype"),
+	url("font/Qlassik_TB.svg") format("svg"),
+	url("font/Qlassik_TB.woff") format("woff"), 
+	url("font/QlassikBold_TB.ttf") format("truetype"), 
+	url("font/QlassikBold_TB.eot") format("eot"), 
+	url("font/QlassikBold_TB.woff") format("woff"), 
+	url("font/Trebuchet MS.ttf") format("truetype"), 
+	url("font/Verdana.ttf") format("truetype"), 
+	url("font/QlassikBold_TB.svg") format("svg"), ;
+}
